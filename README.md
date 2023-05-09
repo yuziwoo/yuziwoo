@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="http://mazandi.herokuapp.com/api?handle={yuziwoo}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=yuziwoo&theme=cold"/>
 <!--
 **yuziwoo/yuziwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
