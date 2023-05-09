@@ -20,6 +20,22 @@
 - [Solved.ac](https://solved.ac/profile/yuziwoo) 잔디밭
 <img src="http://mazandi.herokuapp.com/api?handle=yuziwoo&theme=cold"/>
 
+<br>
 
+### :running: 나의 발자취
+---
+#### 개발 기록
+- [노션 개발 블로그](https://yuziwoo2.notion.site/2bed422b7e794256a1904641acca0585) 그 동안의 공부 기록
+- [외주 가구 도매 웹사이트](http://www.designgagu.co.kr) 프로젝트 1인 개발
+<br>
+
+#### 이력
+> - 22년 4월 - 현재 : 명품 패션 이커머스 디코드(엔코드) <웹 퍼블리셔> 근무
+> - 22년 2월 - 22년 3월 : 메타버스 개발회사 메버 <웹 퍼블리셔> 근무
+> - 21년 7월 - 22년 1월 : 웹 에이전시 윈코커뮤니케이션 <웹 디자이너> 근무
+> - 21년 2월 : 자격증 웹 디자인 기능사 필기 합격
+> - 21년 1월 : 자격증 GTQ 1급, GTQi 1급 합격
+> - 20년 10월 - 21년 3월 : 국비지원 그린컴퓨터 아카데미 <반응형 웹디자인, 퍼블리셔 교육> 이수
+ 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
