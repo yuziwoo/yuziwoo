@@ -16,6 +16,7 @@
 
 ### :farmer: Solved.ac 잔디밭
 ---
+- **백준 알고리즘** 23년 5월 9일 기준 node.js 170등
 <img src="http://mazandi.herokuapp.com/api?handle=yuziwoo&theme=cold"/>
 
 
