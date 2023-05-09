@@ -5,6 +5,7 @@
 <img src="http://mazandi.herokuapp.com/api?handle=yuziwoo&theme=cold"/>
 
 ---
+### :technologist: 언어
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
