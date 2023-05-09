@@ -26,7 +26,7 @@
 ---
 #### 개발 기록
 - [노션 개발 블로그](https://yuziwoo2.notion.site/2bed422b7e794256a1904641acca0585) 그 동안의 공부 기록
-- [외주 가구 도매 웹사이트](http://www.designgagu.co.kr) 프로젝트 1인 개발
+- [외주: 가구 도매 웹사이트](http://www.designgagu.co.kr) 프로젝트 1인 개발
 <br>
 
 #### 이력
