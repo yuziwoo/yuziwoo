@@ -4,9 +4,12 @@
 
 ### :technologist: 언어
 ---
+> JAVASCRIPT REACT HTML CSS
+
 <br>
 
 ### :farmer: Solved.ac 잔디밭
+---
 <img src="http://mazandi.herokuapp.com/api?handle=yuziwoo&theme=cold"/>
 
 
