@@ -2,9 +2,10 @@
 - 저는 디자인과 브라우저 렌더링에도 능숙한 웹에이전시 디자이너, 패션 이커머스 퍼블리셔 출신의 프론트 개발자입니다.
 <br>
 
-### :technologist: 언어
+### :technologist: 나의 스택
 ---
-> JAVASCRIPT REACT HTML CSS
+> - HTML ・ CSS ・ SASS(SCSS) 🦋 GSAP ・ SWIPER
+> - JAVASCRIPT ・ REACT ・ TYPESCRIPT 🦋 REDUX
 
 <br>
 
