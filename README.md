@@ -11,7 +11,7 @@
 - **퍼블리싱** : HTML ・ CSS ・ SASS(SCSS) ・ GSAP ・ SWIPER
 - **프론트엔드** : JAVASCRIPT ・ JQUERY ・ REACT ・ TYPESCRIPT ・ REDUX ・ REACT QUERY
 - **디자인** : XD ・ PHOTOSHOP ・ ILLUSTRATOR ・ FIGMA
-- **협업 툴** : NOTION ・ GITHUB ・ SLACK ・ JIRA ・ 
+- **협업 툴** : NOTION ・ GITHUB ・ SLACK ・ TRELLO
 
 <br>
 
