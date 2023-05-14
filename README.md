@@ -10,6 +10,7 @@
 ---
 - **퍼블리싱** : HTML ・ CSS ・ SASS(SCSS) ・ GSAP ・ SWIPER ・ JQUERY
 - **프론트엔드** : JAVASCRIPT ・ REACT ・ TYPESCRIPT ・ NEXT.JS ・ REDUX ・ REACT QUERY
+- **백엔드** : MONGO DB
 - **디자인** : XD ・ PHOTOSHOP ・ ILLUSTRATOR ・ FIGMA
 - **협업 툴** : NOTION ・ GITHUB ・ SLACK ・ TRELLO
 
