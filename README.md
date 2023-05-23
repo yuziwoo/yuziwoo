@@ -18,7 +18,7 @@
 
 ### :farmer: 나의 잔디밭
 ---
-- [백준 알고리즘](https://www.acmicpc.net/user/yuziwoo) NODE.JS [138등](https://www.acmicpc.net/ranklist/language/17/2)
+- [백준 알고리즘](https://www.acmicpc.net/user/yuziwoo) NODE.JS [135등](https://www.acmicpc.net/ranklist/language/17/2)
 - [Solved.ac](https://solved.ac/profile/yuziwoo) 잔디밭
 <img src="http://mazandi.herokuapp.com/api?handle=yuziwoo&theme=cold"/>
 
