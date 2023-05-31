@@ -11,7 +11,7 @@
 - **언어** : JAVASCRIPT
  - 프레임워크 : REACT ・ NEXT.JS ・ TYPESCRIPT
  - 라이브러리 : REDUX ・ REACT QUERY ・ SWIPER ・ JQUERY ・ GSAP
-
+<br/>
 
 - 퍼블리싱 : HTML ・ CSS ・ SASS(SCSS)
 - 서버 : MONGO DB ・ AWS
