@@ -4,15 +4,17 @@
 - 저는 1000장 이상﹗ 업계 최고 디자이너분들의 웹 페이지를 퍼블리싱하며 실무 경험을 다져서 **깔끔하고 위트있는 퍼블리싱**에 자신있습니다.
 - 저는 자바스크립트 내부 구조, DOM트리, CS지식 등 뼈대가 되어주는 지식도 책과 공식 문서를 통해 꾸준히 공부하면서 깔끔하고 유연한 코드를 만들으려 끊임없이 노력하고 있습니다.
 - 저는 항상 최선을 다하고, 늘 밝고 긍정적인 에너지를 뿜어내는 29살 청년입니다. 감사합니다!
-<br>
+<br/>
 
 ### :technologist: 나의 스택
 ---
-- **프론트엔드** : JAVASCRIPT ・ REACT ・ NEXT.JS ・ TYPESCRIPT ・ REDUX ・ REACT QUERY
--- 안녕
-- **퍼블리싱** : HTML ・ CSS ・ SASS(SCSS) ・ GSAP ・ SWIPER ・ JQUERY
-- **서버** : MONGO DB ・ AWS 경험
-- **디자인** : XD ・ PHOTOSHOP ・ ILLUSTRATOR ・ FIGMA
+- **언어** : JAVASCRIPT
+ - 프레임워크 : REACT ・ NEXT.JS ・ TYPESCRIPT
+ - 라이브러리 : REDUX ・ REACT QUERY ・ SWIPER ・ JQUERY ・ GSAP
+<br/>
+- **퍼블리싱** : HTML ・ CSS ・ SASS(SCSS)
+- **서버** : MONGO DB ・ AWS
+- **디자인** : FIGMA ・ ADOBE XD ・ PHOTOSHOP ・ ILLUSTRATOR
 - **협업 툴** : NOTION ・ GITHUB ・ SLACK ・ TRELLO
 
 <br>
