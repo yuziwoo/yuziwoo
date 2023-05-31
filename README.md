@@ -13,10 +13,10 @@
  - 라이브러리 : REDUX ・ REACT QUERY ・ SWIPER ・ JQUERY ・ GSAP
 <br/>
 
-- **퍼블리싱** : HTML ・ CSS ・ SASS(SCSS)
-- **서버** : MONGO DB ・ AWS
-- **디자인** : FIGMA ・ ADOBE XD ・ PHOTOSHOP ・ ILLUSTRATOR
-- **협업 툴** : NOTION ・ GITHUB ・ SLACK ・ TRELLO
+- 퍼블리싱 : HTML ・ CSS ・ SASS(SCSS)
+- 서버 : MONGO DB ・ AWS
+- 디자인 : FIGMA ・ ADOBE XD ・ PHOTOSHOP ・ ILLUSTRATOR
+- 협업 툴 : NOTION ・ GITHUB ・ SLACK ・ TRELLO
 
 <br>
 
