@@ -8,7 +8,8 @@
 
 ### :technologist: 나의 스택
 ---
-- **프론트엔드** : JAVASCRIPT ・ REACT ・ TYPESCRIPT ・ NEXT.JS ・ REDUX ・ REACT QUERY
+- **프론트엔드** : JAVASCRIPT ・ REACT ・ NEXT.JS ・ TYPESCRIPT ・ REDUX ・ REACT QUERY
+-- 안녕
 - **퍼블리싱** : HTML ・ CSS ・ SASS(SCSS) ・ GSAP ・ SWIPER ・ JQUERY
 - **서버** : MONGO DB ・ AWS 경험
 - **디자인** : XD ・ PHOTOSHOP ・ ILLUSTRATOR ・ FIGMA
