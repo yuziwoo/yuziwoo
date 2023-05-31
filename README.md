@@ -28,6 +28,7 @@
 ---
 #### 개발 기록
 - [노션 개발 블로그](https://yuziwoo2.notion.site/2bed422b7e794256a1904641acca0585) 그동안의 공부 기록
+- [토이프로젝트 : TODO LIST](http://yuziwoo1.dothome.co.kr/) 프로젝트 1인 개발
 - [외주: 가구 도매 웹사이트 "바오밥 퍼니처"](https://yuziwoo.github.io/baobab-furniture) 프로젝트 1인 개발
 <br>
 
