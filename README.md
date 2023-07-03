@@ -3,7 +3,7 @@
 - 저는 **NEXT.JS v13**을 주로 사용합니다.
 <br/>
 
-### :technologist: 나의 스택
+### :technologist: SKILLS
 ---
 - **언어** : JAVASCRIPT
  - 프레임워크 : REACT ・ NEXT.JS ・ TYPESCRIPT
@@ -17,7 +17,7 @@
 
 <br>
 
-### :farmer: 나의 잔디밭
+### :farmer: LAWN
 ---
 - [백준 알고리즘](https://www.acmicpc.net/user/yuziwoo) NODE.JS [106등](https://www.acmicpc.net/ranklist/language/17/2)
 - [Solved.ac](https://solved.ac/profile/yuziwoo) 잔디밭
