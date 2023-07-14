@@ -3,7 +3,7 @@
 - 저는 **NEXT.JS v13**을 주로 사용합니다.
 <br/>
 
-### 🧑🏻‍💻 SKILLS
+### 🧑🏻‍💻 SKILLS
 ---
 - **언어** : JAVASCRIPT
  - 프레임워크 : REACT ・ NEXT.JS ・ TYPESCRIPT
