@@ -23,7 +23,7 @@
 
 
 <div align="center">
-<br> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuziwoo&count_bg=%23A4B7F7&title_bg=%23829FFF&icon=github.svg&icon_color=%23FFFFFF&title=Github+%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false">
+<br> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuziwoo&count_bg=%23A4B7F7&title_bg=%23829FFF&icon=github.svg&icon_color=%23FFFFFF&title=Github+%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false" alt="https://hits.seeyoufarm.com/">
 <br>
 </div>
 
