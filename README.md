@@ -14,4 +14,4 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=yuziwoo&show_icons=true&theme=dark&count_private=true&custom_title=yuziwoo&bg_color=30,A5B4E8,BEB5E8&title_color=fff&text_color=fff&icon_color=fff" height="170"> | <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yuziwoo" height="170"> |
 | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
