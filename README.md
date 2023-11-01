@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 안녕하세요!
 <br> 센스있는 개발자 유지우입니다. 💎
 <br>
