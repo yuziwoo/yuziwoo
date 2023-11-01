@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuziwoo&count_bg=%23A4B7F7&title_bg=%23829FFF&icon=github.svg&icon_color=%23FFFFFF&title=Github+%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
-
 > 안녕하세요!
 > <br> 센스있는 개발자 유지우입니다. 💎
 
@@ -12,6 +10,8 @@
 
 ## ACHIEVEMENT
 - [백준 알고리즘](https://www.acmicpc.net/user/yuziwoo) NODE.JS 문제 많이 풀은 순위 [93등](https://www.acmicpc.net/ranklist/language/17/1)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuziwoo&count_bg=%23A4B7F7&title_bg=%23829FFF&icon=github.svg&icon_color=%23FFFFFF&title=Github+%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 
 | <img src="https://github-readme-stats.vercel.app/api?username=yuziwoo&show_icons=true&theme=dark&count_private=true&custom_title=yuziwoo&bg_color=30,A5B4E8,BEB5E8&title_color=fff&text_color=fff&icon_color=fff" height="170"> | <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yuziwoo" height="170"> |
 | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | 
