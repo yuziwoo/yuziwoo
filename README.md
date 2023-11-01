@@ -7,6 +7,7 @@
 - [백준 알고리즘](https://www.acmicpc.net/user/yuziwoo) NODE.JS [87등](https://www.acmicpc.net/ranklist/language/17/1)
 - [Solved.ac](https://solved.ac/profile/yuziwoo) 잔디밭
 <img src="http://mazandi.herokuapp.com/api?handle=yuziwoo&theme=cold"/>
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yuziwoo"/>
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuziwoo)](https://solved.ac/yuziwoo)
 
  
