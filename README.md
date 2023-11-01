@@ -8,6 +8,7 @@
 - [Solved.ac](https://solved.ac/profile/yuziwoo) 잔디밭
 
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yuziwoo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yuziwoo&show_icons=true&theme=dark&count_private=true&custom_title=yuziwoo&bg_color=30,A5B4E8,BEB5E8&title_color=fff&text_color=fff&icon_color=fff"/>
 
 
  
