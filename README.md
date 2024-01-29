@@ -9,9 +9,6 @@
 - 전 명품 패션 이커머스 퍼블리셔 🧑🏻‍💻
 - 전 웹 에이전시 디자이너 🧑🏻‍🎨
 
-## ARCHIVE
-- 나의 공부 노트 📚 [노션 블로그](https://www.notion.so/native/yuziwoo2/84f082a6bc0f4bbda3d97726a9b5dc75?pvs=4&deepLinkOpenNewTab=true)
-
 ## ACHIEVEMENT
 - [백준 알고리즘](https://www.acmicpc.net/user/yuziwoo) NODE.JS 문제 많이 풀은 순위 [93등](https://www.acmicpc.net/ranklist/language/17/1)
 
