@@ -1,7 +1,7 @@
 <br>
 
 > 안녕하세요!
-> <br> 꾸준히 성장하는 개발자 유지우입니다. 🙂
+> <br> 개발자 유지우입니다. 🙂
 <p align="middle"><a href="https://portfolio240401.netlify.app/" target="_blank">포트폴리오 보러가기</a></p>
 
 ## HISTORY
