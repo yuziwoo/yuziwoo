@@ -1,8 +1,8 @@
 <br>
 
 > 안녕하세요!
-> <br> 개발자 유지우입니다. 🙂
-> <br> Next.js, React, Vue(v2.0, v3.0), TypeScript, Pure JavaScript 등 모든 프론트 개발과 탄탄한 퍼블리싱
+> <br> 개발자 유지우입니다. 🎧
+> <br> Next.js, React, Vue(v2.0, v3.0), TypeScript, Pure JavaScript 등 모든 프론트 개발과 퍼블리싱 
 > <br> 그리고 다양한 장르의 웹 디자인까지 작업해드립니다.
 <p align="middle"><a href="https://portfolio240401.netlify.app/" target="_blank">포트폴리오 보러가기</a></p>
 
